@@ -14,16 +14,25 @@ Build an intelligent text summarizer that automatically generates concise and in
 3. Run: `python app.py`
 
 ## text-summarizer-transformer/
-├── data/\n
-│   └── sample_articles.txt\n
-├── src/\n
-│   ├── summarizer.py\n
-│   ├── preprocessing.py\n
-│   └── model.py\n
-├── app.py\n
-├── requirements.txt\n
-├── README.md\n
-└── Dockerfile\n
+├── data/
+
+│   └── sample_articles.txt
+
+├── src/
+
+│   ├── summarizer.py
+
+│   ├── preprocessing.py
+
+│   └── model.py
+
+├── app.py
+
+├── requirements.txt
+
+├── README.md
+
+└── Dockerfile
 
 ## Technologies & Tools
 Python (PyTorch or TensorFlow)
